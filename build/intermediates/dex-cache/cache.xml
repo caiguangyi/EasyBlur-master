@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_1cea406b57922502cad4359781e6801a701f4489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_436b20fb39a0d268f049ebfe0074e90899e6de93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_5b131fd88602e21d4028399462a22a35f5598855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_245af6fdc57627a945dcd30e2fac46f33aceeddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_291157be85e04d4f984eee715143b14f2a5adbc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0e5d05220f668ad0c64f32412af1bbd496d9e0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Library/Android/sdk/build-tools/24.0.2/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/renderscript-v8_0065f7a8307e8a1b49eb2649607965f9457970f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.github.pinguo-zhouwei/EasyBlur/v1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e7d2408d2dac0e55f4ffedd1243cc25056c8144">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.github.pinguo-zhouwei-EasyBlur-v1.0.0_c046a35d470aebfffdbf6a3cb14c9ac256260faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_f1739b38eb3694fb97d3d1a3255ddde6dc915646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_024cd5534f2799989effc4142c589c70a46be689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_af31453ab329d3d550923f0f265401ae1063a28f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_58726fae9af4d2a949659eaa66d816704b7c6c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_03cd12b8d1fba8333f1b82314f212391f9c198da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0dbba2298ea0d3133f83dcea2a294fe666b14db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_d4c143fcc0cea1f7318ab165b7aba75a5a43b453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_410b3444a44ae88d764bacfd8022ba6d37efdc36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/caiguangyi/Desktop/Android开源项目源码集汇/Android源码集合/Android 图片高斯模糊解决方案/EasyBlur-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_3f4986bf8d529062153383506b00de0403cde90e.jar" />
+    </item>
+
+</items>
